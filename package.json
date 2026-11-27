@@ -1,0 +1,13 @@
+{
+    "name": "miniloft",
+    "type": "module",
+    "main": "src/index.ts",
+    "dependencies": {
+        "puppeteer-core": "24.31.0",
+        "wrangler": "^4.168.0"
+    },
+    "devDependencies": {
+        "@types/bun": "^1.4.5",
+        "typescript": "^6.0.3"
+    }
+}
